@@ -122,6 +122,13 @@ the remainder as SOM, plots modes 1 and 30, and writes PDF figures plus
 `cda_results.rds` to `output/`. The settings are collected at the beginning of
 the script so they can be changed in one place.
 
+## Example output
+
+The worked example produces the following figures:
+
+- [CDA loading pattern and variate time series](examples/figures/YOUR-FIRST-FILENAME.pdf)
+- [CDA discriminant ratios](examples/figures/YOUR-SECOND-FILENAME.pdf)
+
 ## Validate the numerical calculation
 
 Run the synthetic checks from the repository root:
