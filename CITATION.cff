@@ -1,6 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite the archived release and the relevant scientific reference."
 title: "Covariance Discriminant Analysis in R"
+repository-code: "https://github.com/tdelsole/covariance-discriminant-analysis"
 type: software
 authors:
   - family-names: "DelSole"
