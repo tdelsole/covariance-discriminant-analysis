@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22754951.svg)](https://doi.org/10.5281/zenodo.22754951)
 # Covariance Discriminant Analysis in R
 
 This repository provides R code for **Covariance Discriminant Analysis (CDA)**,
