@@ -126,8 +126,8 @@ the script so they can be changed in one place.
 
 The worked example produces the following figures:
 
-- [CDA loading pattern and variate time series](examples/figures/YOUR-FIRST-FILENAME.pdf)
-- [CDA discriminant ratios](examples/figures/YOUR-SECOND-FILENAME.pdf)
+- [CDA loading pattern and variate time series](examples/figures/CDA.NAtl_MCOM_SOM.space.time.30.pdf)
+- [CDA discriminant ratios](examples/figures/CDA.NAtl_MCOM_SOM.ratios.pdf)
 
 ## Validate the numerical calculation
 
