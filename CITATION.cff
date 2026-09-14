@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the archived release and the relevant scientific reference."
+title: "Covariance Discriminant Analysis in R"
+type: software
+authors:
+  - family-names: "DelSole"
+    given-names: "Timothy"
+version: 1.0.0
+date-released: 2026-09-14
+license: MIT
+keywords:
+  - covariance discriminant analysis
+  - climate science
+  - multivariate statistics
+  - generalized eigenvalue problem
+  - R
+references:
+  - type: book
+    title: "Statistical Methods for Climate Scientists"
+    authors:
+      - family-names: "DelSole"
+        given-names: "Timothy"
+      - family-names: "Tippett"
+        given-names: "Michael K."
+    year: 2022
+    publisher: "Cambridge University Press"
+    doi: "10.1017/9781108659055"

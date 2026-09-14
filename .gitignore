@@ -1,0 +1,13 @@
+# R session files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Generated analysis output
+output/*
+!output/.gitkeep
+
+# Operating-system files
+.DS_Store
+Thumbs.db
